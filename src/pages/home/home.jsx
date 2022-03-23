@@ -8,6 +8,7 @@ const Home = (props) => {
   const nav = (path) => {
     navigate(path);
   };
+  //测试提交
   const test = () => {
     console.log("点击了按钮")
   };
